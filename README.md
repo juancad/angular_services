@@ -10,13 +10,13 @@
 Se trata de realizar una aplicación en angular en el que haya comunicación entre componentes padres e hijos. 
 
 ### 1.1 Link web <a name="link-web"/>
-https://juancad.github.io/angular_servicios/
+https://juancad.github.io/angular_services/
 
 ## 2. Visualización <a name="visualizacion"/>
 
 Se trata de una aplicación para un bloc de notas, en el que se pueden añadir notas a una lista de notas y, posteriormente, marcar las notas como realizadas.
 
-![image](https://user-images.githubusercontent.com/91132611/165274576-02585d90-7427-4abb-bb7f-6de93420be0b.png)
+![services](https://user-images.githubusercontent.com/91132611/165403194-e832b0df-5d22-48ed-8512-beef6aaf48fa.png)
 
 ## 3. Descripción del trabajo realizado <a name="descripcion"/>
 

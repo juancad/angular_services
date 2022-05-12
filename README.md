@@ -7,7 +7,7 @@
 3. [Visualización](#visualizacion)
 4. [Descripción del trabajo realizado](#descripcion)
 
-### 1. Introducción
+### 1. Introducción <a name="intro"/>
 Se trata de realizar una aplicación en angular en el que haya comunicación entre componentes padres e hijos. 
 
 ### 1.1 Link web <a name="link-web"/>

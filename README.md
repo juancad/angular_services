@@ -2,7 +2,8 @@
 
 ## Contenidos 
 1. [Introducción](#intro)
-  1.1. [Link web](#link-web) 
+  1.1. [Link web](#link-web)
+2. [Requisitos](#requisitos)
 3. [Visualización](#visualizacion)
 4. [Descripción del trabajo realizado](#descripcion)
 
@@ -12,7 +13,15 @@ Se trata de realizar una aplicación en angular en el que haya comunicación ent
 ### 1.1 Link web <a name="link-web"/>
 https://juancad.github.io/angular_services/
 
-## 2. Visualización <a name="visualizacion"/>
+## 2. Requisitos<a name="requisitos"/>
+Para poder ejecutar el proyecto será necesario:
+- Tener instalado [Node.js](https://nodejs.org/es/download/).
+- Para este proyecto se ha utilizado el IDE Visual Studio.
+- Tener instalado npm, mediante el comando: `npm install -g @angular/cli`.
+- Importar el proyecto e instalar las dependencias del fichero package.json mediante el comando `npm install`.
+- Ejecutar el comando `ng serve` y abrir la dirección `http://localhost:4200/` en un navegador.
+
+## 3. Visualización <a name="visualizacion"/>
 
 Se trata de una aplicación para un bloc de notas, en el que se pueden añadir notas a una lista de notas y, posteriormente, marcar las notas como realizadas.
 
